@@ -3,3 +3,7 @@ main{
     margin: 0;
     font-size: 24px;
 }
+
+body{
+    padding:25rem;
+}
